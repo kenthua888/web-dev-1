@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: 21px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color: #FFCC00;
+    font-size: 15px;
+}
+
+h2 {
+    font-size: 70px;
+    color: violet;
+    
+}
