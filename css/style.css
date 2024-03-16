@@ -15,3 +15,22 @@ h2 {
     color: violet;
     
 }
+
+
+span {
+    color: black;
+}
+
+strong {
+    color: black;
+}
+
+.portfolio-section {
+    background-image: url(../img/flower.png);
+    background-repeat: repeat-x;
+
+}
+
+.project {
+    font-size: 12px;
+}
