@@ -1,0 +1,7 @@
+https://medium.com/free-code-camp/i-reviewed-fifty-portfolios-on-reddit-and-this-is-what-i-learned-e5d2b43150bc
+
+Tip# 1: Some members of your target audience will have disabilities. Before writing any styling, make sure your HTML is accessible.
+
+Tip #2: Write CSS mobile-first. Ensure that your website is accessible from all devices.
+
+Tip #3: Work on side and personal projects related to the same tech you use at work. Not only does it help you train for your current role, it also allows a portfolio reviewer to know where your skills are.
