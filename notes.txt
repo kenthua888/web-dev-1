@@ -1,5 +1,7 @@
 https://medium.com/free-code-camp/i-reviewed-fifty-portfolios-on-reddit-and-this-is-what-i-learned-e5d2b43150bc
 
+https://daily.dev/blog/how-to-build-a-standout-developer-portfolio-site
+
 Tip# 1: Some members of your target audience will have disabilities. Before writing any styling, make sure your HTML is accessible.
 
 Tip #2: Write CSS mobile-first. Ensure that your website is accessible from all devices.
