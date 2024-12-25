@@ -1,4 +1,4 @@
 # web-dev-1
 
-Practicing CSS and HTML
+Practicing Website developing :D
 
